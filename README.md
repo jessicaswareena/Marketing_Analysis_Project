@@ -235,16 +235,10 @@ Several additional analyses become possible with more complete tracking and mark
       overall conversion from 1.54% to 2.0%.
       
     •	Communicate these scenarios to leadership as part of planning and resource allocation.
-## 🧱 Data foundation & assumptions
-The analysis uses **session level** web analytics data over a defined time period:
-
-    •	Each row represents one session on the site.
-    
-    •	Key events include product views, add to cart, checkout initiation, and purchase.
-    
-    •	Main traffic sources: Email, Adwords, Organic, Facebook, and YouTube.
-    
+## 🧱 Data foundation & assumptions    
 Important assumptions and caveats:
+    • The analysis uses session level web analytics data over a defined time period due to 
+      missing user identifiers.
 
     •	No reliable cross session user identifiers, so behavior is evaluated at the session 
       level rather than per customer.
