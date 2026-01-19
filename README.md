@@ -63,11 +63,9 @@ Understanding where potential customers fall out of the funnel requires tracking
      
 Critical drop off metrics:
 
-     •	Product → cart drop: 15.92% 
-        » This reflects typical browsing behavior as users explore options.
+     •	Product → cart drop: 15.92%: This reflects typical browsing behavior as users explore options.
 
-     •	Cart → purchase drop: 94.51% abandonment
-         » Only 5.49%of cart sessions result in an order.
+     •	Cart → purchase drop: 94.51% abandonment: Only 5.49%of cart sessions result in an order.
 
 ###Patterns:
 
@@ -92,13 +90,13 @@ The next part of the analysis evaluates whether some channels are fundamentally 
 
       » Adwords and Email sessions convert more slowly (around 62–63 minutes) but bring higher order values.
       
-      	Organic sessions convert faster (around 23 minutes) but with slightly lower average revenue per order.
+       » Organic sessions convert faster (around 23 minutes) but with slightly lower average revenue per order.
       
-Implications:
+### Implications:
 
 •	No major channel shows signs of fundamentally poor traffic quality.
 
-•	The main problems arise after acquisition, when users have already decided to engage seriously with the product.
+•	The main problems arise **after acquisition**, when users have already decided to engage seriously with the product.
 
 •	Paid channels are not failing; they are being undermined by issues later in the funnel when visitors attempt to complete their purchase.
 
@@ -106,23 +104,23 @@ This shifts focus from channel by channel blame to fixing shared downstream issu
 ## 💵 Revenue Efficiency & Channel Monetization
 Beyond conversion percentages, the analysis examines how each channel contributes to revenue and where upside remains.
 
-Highlights:
+### Highlights:
 
 •	**Revenue concentration:**
 
-    •	**Email** contributes roughly **$3,161.**
+     » Email** contributes roughly $3,161.
     
-    •	**Adwords** contributes about **$2,002.**
+     » Adwords** contributes about $2,002.
     
-    •	Facebook, YouTube, and Organic together generate a significantly smaller share of total revenue.
+     » Facebook, YouTube, and Organic together generate a significantly smaller share of total revenue.
     
 •	**Revenue per session:**
 
-    •	**Organic** leads at around **$0.18** per visit, even though it is not the top revenue driver by volume.
+     » Organic leads at around $0.18 per visit, even though it is not the top revenue driver by volume.
     
-    •	Site wide, the average is approximately **$0.15** per visit.
+     » Site wide, the average is approximately $0.15 per visit.
     
-Conclusions:
+### Conclusions:
 
 •	The business relies heavily on **Email** and **Adwords** for revenue.
 
@@ -149,7 +147,7 @@ These insights form the backbone of the project and guide the recommended action
 ## ✅ Recommendations
 The following actions are prioritized by potential revenue impact and practicality.
 
-###1. Focus on checkout experience
+### 1. Focus on checkout experience
 
 Reasoning: The **94.51%** cart to purchase drop makes checkout the single largest revenue lever.
 
@@ -165,7 +163,7 @@ Suggested initiatives:
 
 Even a modest increase in cart conversion yields a meaningful lift in revenue given current traffic.
 
-###2. Hold acquisition budgets steady while fixing conversion
+### 2. Hold acquisition budgets steady while fixing conversion
 
 Reasoning: Scaling traffic into a highly lossy checkout compounds wasted marketing spend.
 
@@ -177,7 +175,7 @@ Actions:
 
 •	Report improvements in conversion and revenue per visit to inform when it becomes efficient to scale traffic again.
 
-###3. Enhance experiences for Email and Adwords traffic
+### 3. Enhance experiences for Email and Adwords traffic
 
 Reasoning: These channels already generate most revenue, so improvements here deliver amplified returns.
 
@@ -189,7 +187,7 @@ Ideas:
 
 •	Implement structured **cart abandonment sequences** (email or retargeting) with tailored incentives based on cart value or product category.
 
-###4. Increase monetization of Organic traffic
+### 4. Increase monetization of Organic traffic
 
 Reasoning: Organic visitors convert quickly and show strong revenue per session but have unrealized order value potential.
 
