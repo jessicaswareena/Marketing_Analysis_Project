@@ -18,28 +18,32 @@ This analysis is designed for stakeholders who need to quickly understand:
 
 •	What specific actions can unlock more revenue without raising acquisition spend.
 
----
-
 ## 🌐 Key Insights & Analysis Focs area
 The work is organized around four core questions that shaped the metrics, visuals, and recommendations:
+
 •	Funnel health: How well do sessions move from visit → intent → purchase?
+
 •	Drop off points: At which stage—product view, cart, or checkout—is the largest loss of potential revenue?
+
 •	Channel quality: Are some traffic sources fundamentally weaker, or is performance broadly consistent across channels?
+
 •	Revenue efficiency: How much revenue does each session generate, and where is monetization potential being left on the table?
+
 All subsequent sections connect directly back to these questions.
 
----
 ## 🧱 Data Structure
 FlexLife's datastructure as seen below consists of four tables:Events,Users,Order_items,Orders with a total row count of 82,382 records.
+![image alt}(https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/c2219d24490a05136fcc0351b9c30bf8168d0e73/ExecutiveOverview.png)
 
----
 ## 📊 Executive Summary
+![image alt}(https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/7e506929609bf70ba187ceda62902f6899dd4ac6/ER%20Diagram.jpeg)
 **OverView of Findings**
-
-### Interpretation
 •	Out of every 100 sessions, around 4 take a clear step toward buying (add to cart or begin checkout).
+
 •	Only 1–2 of those sessions end with a completed purchase, meaning about three quarters of high intent sessions are lost before revenue is captured.
+
 •	Traffic volume is not the primary constraint; the friction appears after users have already expressed strong intent.
+
 This immediately points the organization away from “buy more traffic” and toward improving how existing visitors are handled.
 
 Below is the overview page from PowerBI dashboard. The entire interactive dashboard can be downloaded here.
