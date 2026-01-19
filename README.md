@@ -38,9 +38,11 @@ FlexLife's datastructure as seen below consists of four tables:Events,Users,Orde
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/c2219d24490a05136fcc0351b9c30bf8168d0e73/ExecutiveOverview.png)
 ### OverView of Findings
 
-•	Out of every 100 sessions, around 4 take a clear step toward buying (add to cart or begin checkout).
+At the highest level, the analysis shows a business with **enough traffic but insufficient conversion efficiency.**
 
-•	Only 1–2 of those sessions end with a completed purchase, meaning about three quarters of high intent sessions are lost before revenue is captured.
+•	Out of every **100** sessions, around **4** take a clear step toward buying (add to cart or begin checkout).
+
+•	Only **1–2** of those sessions end with a completed purchase, meaning about **three quarters of high intent sessions are lost** before revenue is captured.
 
 •	Traffic volume is not the primary constraint; the friction appears after users have already expressed strong intent.
 
@@ -48,7 +50,7 @@ This immediately points the organization away from “buy more traffic” and to
 
 Below is the overview page from PowerBI dashboard. The entire interactive dashboard can be downloaded here.
 
-## Insights Deep Dive
+ ## Insights Deep Dive
 ### Funnel Drop-Off & Checkout Friction
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/f0adcebcd9009f8199fdc520b3ab3a83d4cdd81e/FunnelAnalysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
@@ -61,15 +63,11 @@ Understanding where potential customers fall out of the funnel requires tracking
      
 Critical drop off metrics:
 
-     •	Product → cart drop: 15.92%.
-     
-•	This reflects typical browsing behavior as users explore options.
+     •	**Product → cart drop: 15.92%** : This reflects typical browsing behavior as users explore options.
 
-     •	Cart → purchase drop: 94.51% abandonment.
-     
-•	Only 5.49% of cart sessions result in an order.
+    ** •	Cart → purchase drop: 94.51%** abandonment: Only 5.49% of cart sessions result in an order.
 
-Patterns:
+###Patterns:
 
 •	Users are willing to discover products and add them to cart, indicating effective merchandising and reasonable product interest.
 
