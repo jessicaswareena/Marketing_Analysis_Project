@@ -1,4 +1,4 @@
-![image alt](image_url)
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/5434ddeec1cf8270c0a9a7db4baa1687e1eafd5b/FlexLife-Logo.png)
 # Marketing-Analysis_FlexLife
 Marketing Conversion Funnel &amp; Optimization Analysis
 
