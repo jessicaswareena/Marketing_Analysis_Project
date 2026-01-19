@@ -3,7 +3,6 @@
 </p>
 
 # Marketing Conversion Funnel & Revenue Optimization Analysis  
----
 A mid-sized e commerce brand in the **activewear and lifestyle accessories** space was struggling with **plateauing revenue despite healthy traffic** from Email, Adwords, Organic search, Facebook, and YouTube. Leadership wanted to know whether the problem was weak traffic or an experience that failed users who were already ready to buy. 
 As the Data Analyst supporting Growth and Product, the goal of this project was to turn session data into a clear, decision ready view of where the funnel leaks, which channels quietly carry the business, and what must be fixed before more money goes into acquisition.
 
