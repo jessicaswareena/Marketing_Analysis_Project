@@ -3,8 +3,8 @@
 </p>
 
 # Marketing Conversion Funnel & Revenue Optimization Analysis  
-A mid-sized e commerce brand in the **activewear and lifestyle accessories** space was struggling with **plateauing revenue despite healthy traffic** from Email, Adwords, Organic search, Facebook, and YouTube. Leadership wanted to know whether the problem was weak traffic or an experience that failed users who were already ready to buy. 
-As the Data Analyst supporting Growth and Product, the goal of this project was to turn session data into a clear, decision ready view of where the funnel leaks, which channels quietly carry the business, and what must be fixed before more money goes into acquisition.
+A mid-sized e commerce brand in the **activewear and lifestyle accessories** space was struggling with **plateauing revenue despite healthy traffic** from Email, Adwords, Organic search, Facebook, and YouTube. Leadership wanted to know whether the problem was- weak traffic or an experience that failed users who were already ready to buy. 
+As the *Data Analyst supporting Growth and Product*, the goal of this project was to turn session data into a clear, decision ready view of where the funnel leaks, which channels quietly carry the business, and what must be fixed before more money goes into acquisition.
 ## 📌 Project Overview
 FlexLife serves roughly **40,000** customers through a digital first storefront focused on performance apparel, athleisure, and related accessories. Traffic is driven primarily by **Email campaigns, paid search (Adwords), Organic search, and social media** placements on Facebook and YouTube. Despite solid visit volumes, revenue growth has been uneven and conversion rates underwhelming, prompting concerns about both traffic quality and onsite experience.
 
@@ -23,7 +23,7 @@ The work is organized around four core questions that shaped the metrics, visual
 
 •	Funnel health: How well do sessions move from visit → intent → purchase?
 
-•	Drop off points: At which stage- product view, cart, or checkout- is the largest loss of potential revenue?
+•	Drop off points: At which stage product view, cart, or checkout- is the largest loss of potential revenue?
 
 •	Channel quality: Are some traffic sources fundamentally weaker, or is performance broadly consistent across channels?
 
@@ -48,7 +48,7 @@ At the highest level, the analysis shows a business with **enough traffic but in
 
 This immediately points the organization away from “buy more traffic” and toward improving how existing visitors are handled.
 
-Below is the overview page from PowerBI dashboard. The entire interactive dashboard can be downloaded here.
+The entire interactive dashboard can be downloaded here.
 
  ## Insights Deep Dive
 ### Funnel Drop-Off & Checkout Friction
