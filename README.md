@@ -48,7 +48,7 @@ At the highest level, the analysis shows a business with **enough traffic but in
 
 This immediately points the organization away from “buy more traffic” and toward improving how existing visitors are handled.
 
-The entire interactive dashboard can be downloaded here.![Dashboard preview](
+The entire interactive dashboard can be downloaded here.![Dashboard preview](https://app.powerbi.com/reportEmbed?reportId=a3ef3576-0b10-4fa9-b204-86aae5564972&autoAuth=true&ctid=750d3a3f-1f46-4da2-8a64-7605e75ea2f9)
 
  ## Insights Deep Dive
 ### Funnel Drop-Off & Checkout Friction
