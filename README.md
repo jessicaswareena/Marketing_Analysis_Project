@@ -67,7 +67,7 @@ Critical drop off metrics:
 
      •	Cart → purchase drop: 94.51% abandonment: Only 5.49%of cart sessions result in an order.
 
-###Patterns:
+### Patterns:
 
 •	Users are willing to discover products and add them to cart, indicating effective merchandising and reasonable product interest.
 
@@ -108,9 +108,9 @@ Beyond conversion percentages, the analysis examines how each channel contribute
 
 •	**Revenue concentration:**
 
-     » Email** contributes roughly $3,161.
+     » Email contributes roughly $3,161.
     
-     » Adwords** contributes about $2,002.
+     » Adwords contributes about $2,002.
     
      » Facebook, YouTube, and Organic together generate a significantly smaller share of total revenue.
     
