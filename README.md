@@ -1,3 +1,4 @@
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/e081e7f0bd87f9de0dae68bbcf05f73b9c0abc2a/FlexLife-Logo.png)
 # Marketing Conversion Funnel & Revenue Optimization Analysis  
 **Brand:** FlexLife Activewear (fictional)  
 **Role:** Data Analyst – Growth & Product Analytics  
