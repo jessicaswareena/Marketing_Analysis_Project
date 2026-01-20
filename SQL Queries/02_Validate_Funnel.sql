@@ -1,6 +1,6 @@
 /* =========================================================
    PROJECT: Marketing Conversion Funnel & Optimization
-   FILE: 02_VALIDATE_FUNNEL: converted_flag vs purchase_event
+   FILE: 02_Validate_Funnel: converted_flag vs purchase_event
    PURPOSE: Validate conversion and funnel logic.
    BUSINESS CONTEXT:
    - Conversion metrics must be trusted before visualization.
@@ -45,6 +45,7 @@ SUM(
 ) AS purchase_event_without_conversion
 
 FROM [PROJECT1_MarketingAnalysis].[dbo].[E-COMMERCE_Marketing_Analysis];
+
 
 
 
