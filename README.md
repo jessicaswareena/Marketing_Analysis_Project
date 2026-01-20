@@ -199,7 +199,7 @@ Ideas:
 
 •	Test **promotion placement and timing** for Organic visitors to find the balance between relevance and distraction.
 
-### 5. 5.	Use AI Driven Personalization at Checkout
+### 5.	Use AI Driven Personalization at Checkout
 
 Reasoning: Purchase intent is high but cart to purchase abandonment remains extreme, so the biggest gains come from reducing friction and doubt in the final steps of the funnel.
 
