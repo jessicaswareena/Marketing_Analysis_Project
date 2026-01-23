@@ -5,7 +5,7 @@
 # When Traffic Isn’t the Problem: Diagnosing Conversion Loss in an E-Commerce Funnel
 A mid-sized e commerce brand in the **activewear and lifestyle accessories** space was struggling with **plateauing revenue despite healthy traffic** from Email, Adwords, Organic search, Facebook, and YouTube. Leadership wanted to know whether the problem was- weak traffic or an experience that failed users who were already ready to buy. 
 As the **Data Analyst supporting Growth and Product**, the goal of this project was to turn session data into a clear, decision ready view of where the funnel leaks, which channels quietly carry the business, and what must be fixed before more money goes into acquisition.
-<h2 align="center"> 📌 Project Overview</h2>
+<h2 align="center">  Project Overview</h2>
 
 FlexLife serves roughly **40,000** customers through a digital first storefront focused on performance apparel, athleisure, and related accessories. Traffic is driven primarily by **Email campaigns, paid search (Adwords), Organic search, and social media** placements on Facebook and YouTube. Despite solid visit volumes, revenue growth has been uneven and conversion rates underwhelming, prompting concerns about both traffic quality and onsite experience.
 
@@ -19,7 +19,7 @@ This analysis is designed for stakeholders who need to quickly understand:
 
 •	What specific actions can unlock more revenue without raising acquisition spend.
 
-<h2 align="center">🌐 Key Insights & Analysis Focus area </h2>
+<h2 align="center"> Key Insights & Analysis Focus area </h2>
 The work is organized around four core questions that shaped the metrics, visuals, and recommendations:
 
 •	Funnel health: How well do sessions move from visit → intent → purchase?
@@ -32,11 +32,11 @@ The work is organized around four core questions that shaped the metrics, visual
 
 All subsequent sections connect directly back to these questions.
 
-<h2 align="center"> 🧱 Data Structure</h2>
+<h2 align="center">  Data Structure</h2>
 FlexLife's datastructure as seen below consists of four tables:Events,Users,Order_items,Orders with a total row count of 82,382 records.
 
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ER%20Diagram.jpeg)
-<h2 align="center"> 📊 Executive Summary </h2>
+<h2 align="center">  Executive Summary </h2>
 
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ExecutiveOverview.png)
 ### Overview of Findings
@@ -81,7 +81,7 @@ Critical drop off metrics:
 •	This extreme drop off is relatively consistent across traffic sources, suggesting a system wide checkout problem rather than one isolated to a single channel.
 
 Likely drivers include complex forms, unexpected fees, confusing shipping options, limited payment methods, or insufficient trust and reassurance at the payment step.
-<h2 align="center"> 📈 Channel Performance & Traffic Quality </h2>
+<h2 align="center">  Channel Performance & Traffic Quality </h2>
 
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ChannelOptimization.png)
 The next part of the analysis evaluates whether some channels are fundamentally weaker or if the problem is uniform.
@@ -107,7 +107,7 @@ The next part of the analysis evaluates whether some channels are fundamentally 
 •	Paid channels are not failing; they are being undermined by issues later in the funnel when visitors attempt to complete their purchase.
 
 This shifts focus from channel by channel blame to fixing shared downstream issues.
-<h2 align="center">💵 Revenue Efficiency & Channel Monetization </h2>
+<h2 align="center"> Revenue Efficiency & Channel Monetization </h2>
 Beyond conversion percentages, the analysis examines how each channel contributes to revenue and where upside remains.
 
 ### Highlights:
@@ -135,7 +135,7 @@ Beyond conversion percentages, the analysis examines how each channel contribute
 •	Faster converting sessions (especially Organic) are strong candidates for **bundles, upsells, and cross sells** that increase order value without increasing acquisition cost.
 
 This framing helps Growth and Product teams see where incremental design and merchandising work could grow revenue.
-<h2 align="center"> 🧠 Key Insights </h2>
+<h2 align="center">  Key Insights </h2>
 
 Across the funnel and channel analysis, several core insights emerge:
 
@@ -150,7 +150,7 @@ Across the funnel and channel analysis, several core insights emerge:
 •	**Revenue is unevenly distributed:** Email and Adwords carry most revenue, while faster converting Organic traffic is not fully monetized.
 
 These insights form the backbone of the project and guide the recommended actions.
-<h2 align="center"> ✅ Recommendations </h2>
+<h2 align="center">  Recommendations </h2>
 The following actions are prioritized by potential revenue impact and practicality.
 
 ### 1. Focus on checkout experience
@@ -219,7 +219,7 @@ Ideas:
 
 •	Adjust recommendations and tone by traffic source so Organic, Email, and Paid users each get guidance that matches how they typically decide.
 
-<h2 align="center"> 🔎 What I'do next with more data </h2>
+<h2 align="center">  What I'do next with more data </h2>
 Several additional analyses become possible with more complete tracking and marketing data:
 
 •	**User level journey evaluation**
@@ -256,7 +256,7 @@ Several additional analyses become possible with more complete tracking and mark
       overall conversion from 1.54% to 2.0%.
       
     •	Communicate these scenarios to leadership as part of planning and resource allocation.
-<h2 align="center"> 🧱 Data foundation & assumptions </h2>   
+<h2 align="center">  Data foundation & assumptions </h2>   
 Important assumptions and caveats:
 
     • The analysis uses session level web analytics data over a defined time period due to 
