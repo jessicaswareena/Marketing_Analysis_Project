@@ -32,7 +32,7 @@ The work is organized around four core questions that shaped the metrics, visual
 
 All subsequent sections connect directly back to these questions.
 
-## 🧱 Data Structure
+<h2 align="center"> 🧱 Data Structure</h2>
 FlexLife's datastructure as seen below consists of four tables:Events,Users,Order_items,Orders with a total row count of 82,382 records.
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ER%20Diagram.jpeg)
 ## 📊 Executive Summary
@@ -51,7 +51,7 @@ This immediately points the organization away from “buy more traffic” and to
 
 The entire interactive dashboard can be downloaded [here.](https://app.powerbi.com/reportEmbed?reportId=a3ef3576-0b10-4fa9-b204-86aae5564972&autoAuth=true&ctid=750d3a3f-1f46-4da2-8a64-7605e75ea2f9)
 
- ## Insights Deep Dive
+<h2 align="center"> Insights Deep Dive </h2>
 ### Funnel Drop-Off & Checkout Friction
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/images/FunnelAnalysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
@@ -77,7 +77,7 @@ Critical drop off metrics:
 •	This extreme drop off is relatively consistent across traffic sources, suggesting a system wide checkout problem rather than one isolated to a single channel.
 
 Likely drivers include complex forms, unexpected fees, confusing shipping options, limited payment methods, or insufficient trust and reassurance at the payment step.
-## 📈 Channel Performance & Traffic Quality
+<h2 align="center"> 📈 Channel Performance & Traffic Quality </h2>
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/10b7433a4ee58b631073f550e52c3fedc40d8450/ChannelOptimization.png)
 The next part of the analysis evaluates whether some channels are fundamentally weaker or if the problem is uniform.
 
@@ -102,7 +102,7 @@ The next part of the analysis evaluates whether some channels are fundamentally 
 •	Paid channels are not failing; they are being undermined by issues later in the funnel when visitors attempt to complete their purchase.
 
 This shifts focus from channel by channel blame to fixing shared downstream issues.
-## 💵 Revenue Efficiency & Channel Monetization
+<h2 align="center">💵 Revenue Efficiency & Channel Monetization </h2>
 Beyond conversion percentages, the analysis examines how each channel contributes to revenue and where upside remains.
 
 ### Highlights:
