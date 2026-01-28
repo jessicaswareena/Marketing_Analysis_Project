@@ -53,6 +53,8 @@ This immediately points the organization away from “buy more traffic” and to
 
 The entire interactive dashboard can be downloaded [here.](https://app.powerbi.com/reportEmbed?reportId=a3ef3576-0b10-4fa9-b204-86aae5564972&autoAuth=true&ctid=750d3a3f-1f46-4da2-8a64-7605e75ea2f9)
 
+All SQL queries used for this analysis can be found [here.](https://github.com/jessicaswareena/Marketing-Conversion-Funnel-Revenue-Optimization-Analysis/tree/cab7bdeceff8d8dae7c29d7642be97f4e34dd197/SQL%20Queries)
+
 <h2 align="center"> Insights Deep Dive </h2>
 
 ### Funnel Drop-Off & Checkout Friction
